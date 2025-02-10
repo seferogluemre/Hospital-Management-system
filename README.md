@@ -7,7 +7,6 @@ Hastalar aktif randevuları görüntüleyebiliyor ve seçtigi Klinik Ve Doktorla
 --Hasta bilgi düzenleme,silme,kaydetme işlemleri
 --Hastanın daha önceden aldıgı randevuları görebilmekte
 
-
 --Doktorlar Kendisine alınmış ve tarihi geçmemiş randevuları görebiliyor
 --İnternet üzerinde işlem yapabilme
 --Tedavisini yaptıgı hastanın randevusunu tamamlandı olarak işaretleyebiliyor
