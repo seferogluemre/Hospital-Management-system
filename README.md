@@ -17,7 +17,7 @@ Hastalar aktif randevuları görüntüleyebiliyor ve seçtigi Klinik Ve Doktorla
 --Branş Ve klinik işlemlerini kontrol edebilir
 
 
-C# and SQL Project: Comprehensive Hospital Management System
+C# and SQL Project: Comprehensive Hospital Management Systems
 This project is a robust and feature-rich Hospital Management System designed to streamline operations within a healthcare facility. Built using C# and SQL, it includes modules for managing patient records, scheduling appointments, tracking medical histories, and generating reports.
 
 For doctors, the system provides tools to manage their schedules, access patient histories, and update treatment plans. For administrators, it offers functionalities to handle staff records, department allocations, and financial transactions such as billing and insurance claims.
