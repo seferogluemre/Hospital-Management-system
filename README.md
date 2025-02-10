@@ -1,4 +1,4 @@
----------- HASTANE YÖNETİM SİSTEMİ -------------
+---------- HASTANE YÖNETİM SİSTEMİ ------------
 
 Bu Projede Dokdor,Sekreter,Hasta işlemleri bulunuyor
 
