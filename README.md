@@ -23,4 +23,3 @@ This project is a robust and feature-rich Hospital Management System designed to
 For doctors, the system provides tools to manage their schedules, access patient histories, and update treatment plans. For administrators, it offers functionalities to handle staff records, department allocations, and financial transactions such as billing and insurance claims.
 
 The system ensures data security and scalability, making it suitable for small clinics as well as large hospitals. Its user-friendly interface and well-structured database design emphasize efficiency, accuracy, and ease of use in managing complex hospital operations.
-
