@@ -1,5 +1,4 @@
 ---------- HASTANE YÖNETİM SİSTEMİ ------------
-
 Bu Projede Dokdor,Sekreter,Hasta işlemleri bulunuyor
 
 Hastalar aktif randevuları görüntüleyebiliyor ve seçtigi Klinik Ve Doktorların Aktif randevularına bakabiliyor
